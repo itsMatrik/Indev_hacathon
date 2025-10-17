@@ -867,3 +867,7 @@ body.dark {
         width: 320px;
     }
 }
+
+.overall-score-card h3 {
+    margin-bottom: 30px;
+}
